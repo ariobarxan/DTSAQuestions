@@ -60,7 +60,7 @@ This project aims to provide a _clear, idiomatic, and educational reference_ for
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DTSAQuestions.git
+   git clone https://github.com/ariobarxan/DTSAQuestions.git
    ```
 2. Open the project in Xcode:
    ```bash
